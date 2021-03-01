@@ -10,6 +10,7 @@ body {
   font-family: Lato, sans-serif;
   color: #54575A;
   background: linear-gradient(to bottom, #FFFFFF 0%, #F3F8F7 49.91%, #FFF9F5 94.19%);
+  padding-bottom: 800px;
 }
 
 .wrapper {
@@ -127,6 +128,76 @@ body {
   left: 737px;
   right: 479px;
   top: 1157px;
+}
+.title2 {
+  position: absolute;
+  width: 800px;
+  height: 135px;
+  left: 221px;
+  top: 1400px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 67px;
+  color: #c95266;
+}
+.text2 {
+  position: absolute;
+  width: 1000px;
+  height: 96px;
+  left: 221px;
+  top: 1500px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 32px;
+}
+.title3 {
+  position: absolute;
+  width: 600px;
+  height: 135px;
+  left: 221px;
+  top: 1730px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 67px;
+  color: #c95266;
+}
+.text3{
+  position: absolute;
+  width: 400px;
+  height: 96px;
+  left: 221px;
+  top: 1810px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 32px;
+}
+.title4 {
+  position: absolute;
+  width: 700px;
+  height: 135px;
+  left: 800px;
+  top: 1730px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 67px;
+  color: #c95266;
+}
+.text4{
+  position: absolute;
+  text-align:justify;
+  width: 500px;
+  height: 96px;
+  left: 800px;
+  top: 1810px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 32px;
 }
 
 /* Background Toggles */
